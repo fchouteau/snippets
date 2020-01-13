@@ -1,0 +1,46 @@
+# geospatial
+fiona
+geojson
+rasterio
+rtree
+shapely
+
+# utils
+black
+loguru
+poetry
+pydot-ng
+pytest
+tqdm
+yapf
+ruamel.yaml
+
+# scientific python & computer vision
+joblib
+matplotlib 
+numpy
+opencv-contrib-python
+opencv-python
+pandas
+scikit-image
+scikit-learn
+scipy
+
+# wb / gcp
+google-cloud-bigquery
+google-cloud-core
+google-cloud-storage
+requests
+
+# jupyter
+ipython
+jupyter
+jupyterlab
+jupytext
+
+# visualisations
+bokeh
+dash 
+plotly
+seaborn
+streamlit

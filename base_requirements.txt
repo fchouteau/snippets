@@ -1,0 +1,18 @@
+# utils
+black
+loguru
+poetry
+pydot-ng
+pytest
+tqdm
+yapf
+ruamel.yaml
+
+# jupyter
+ipython
+jupyter
+jupyterlab
+jupytext
+
+pip
+setuptools
